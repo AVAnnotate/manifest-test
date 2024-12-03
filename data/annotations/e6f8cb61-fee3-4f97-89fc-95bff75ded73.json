@@ -1,0 +1,319 @@
+{
+  "event_id": "407d571c-0239-4734-88f3-cf3e380be6c0",
+  "source_id": "a6de03c7-ce81-4bca-a640-46d95279c7d0",
+  "set": "Default",
+  "annotations": [
+    {
+      "start_time": 10,
+      "end_time": 20,
+      "annotation": [
+        {
+          "text": "\"Where did she come from? Why did she leave? Who is she?\""
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Script Analysis"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Character Analysis"
+        }
+      ],
+      "uuid": "08b2a845-ef60-4a7c-a55c-d13f9012f9a7"
+    },
+    {
+      "start_time": 22,
+      "end_time": 35,
+      "annotation": [
+        {
+          "text": "\"Because he's going to give you the histrionic side of the play\" He being Ibsen?"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Important Figure"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Henrik Ibsen"
+        }
+      ],
+      "uuid": "e3e3f325-8cd4-472e-a326-4f433dfbe9f7"
+    },
+    {
+      "start_time": 36,
+      "end_time": 48,
+      "annotation": [
+        {
+          "text": "Begins to move more, acts out motion in front of her head when saying \"genius\" and physically puts her hand under the other when saying \"underneath.\""
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Gestures Mirror Words"
+        }
+      ],
+      "uuid": "9d74487e-8a45-43dc-9c68-1320632f35bf"
+    },
+    {
+      "start_time": 67,
+      "end_time": 100,
+      "annotation": [
+        {
+          "text": "Acts out part but not necessarily in active \"acting voice\", prop usage"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Rhetorical Device"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Teaching Voice"
+        }
+      ],
+      "uuid": "688ca8d0-7b48-44cc-80ef-7b1149ef532c"
+    },
+    {
+      "start_time": 95,
+      "end_time": 98,
+      "annotation": [
+        {
+          "text": "Students laughing at her acting out"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Student interaction"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Act-out"
+        }
+      ],
+      "uuid": "8c012c44-1f03-473c-8ac3-cd9c628f1d72"
+    },
+    {
+      "start_time": 118,
+      "end_time": 152,
+      "annotation": [
+        {
+          "text": "More dramatic when asking the character questions this time, begins to get more emotional again, not completely in acting voice but partially"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Rhetorical Device"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Acting Voice"
+        }
+      ],
+      "uuid": "cc79ae81-2c9e-4280-ad86-1d2b170dafb5"
+    },
+    {
+      "start_time": 158,
+      "end_time": 166,
+      "annotation": [
+        {
+          "text": "Starts moving side to side more, asks more and more in depth questions, very similar to RDN questions, more emotional as she asks more questions"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "The Method"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Gestures Mirror Words"
+        }
+      ],
+      "uuid": "b7ee89c7-949d-4889-bcb0-52418538705a"
+    },
+    {
+      "start_time": 170,
+      "end_time": 179,
+      "annotation": [
+        {
+          "text": "\"I don't know anything but I have now the beginning that… who is she? What do I have to find out about her?\""
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "The Method"
+        }
+      ],
+      "uuid": "f793bf71-c7f7-4426-9ed0-20f3403ae926"
+    },
+    {
+      "start_time": 186,
+      "end_time": 203,
+      "annotation": [
+        {
+          "text": "Script analysis of characters’ impacts on each other, pause as she thinks and becomes more emotional as she says \"and I read the play\", also says \"now that's very big\" common \"big\" usage"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Script Analysis"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Size"
+        }
+      ],
+      "uuid": "b2d180c0-dcaf-4508-9af6-e29bb2008416"
+    },
+    {
+      "start_time": 204,
+      "end_time": 221,
+      "annotation": [
+        {
+          "text": "Pretty clear switch into acting voice, hands almost covering face as she thinks/works through, doesn't look out at students, doesn’t stay in acting voice as long, switches back as she says \"I don't know what that means\""
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Rhetorical Device"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Script Analysis"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Acting voice"
+        }
+      ],
+      "uuid": "5f3ea58b-d535-4ecc-ae0c-c6acfbd54799"
+    },
+    {
+      "start_time": 223,
+      "end_time": 231,
+      "annotation": [
+        {
+          "text": "Starts moving more as she is actively thinking/working through, acting voice"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Rhetorical Device"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Acting Voice"
+        }
+      ],
+      "uuid": "bea36487-2a0e-4eb8-aaf3-ca90d189c2cc"
+    },
+    {
+      "start_time": 231,
+      "end_time": 235,
+      "annotation": [
+        {
+          "text": "Dramatic pause accompanied with mouth/hand movement"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Rhetorical Device"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Dramatic Pause"
+        }
+      ],
+      "uuid": "da4755ab-eac9-414c-8eab-c524888873ec"
+    },
+    {
+      "start_time": 237,
+      "end_time": 245,
+      "annotation": [
+        {
+          "text": "Each hand seems to symbolize the two characters she's talking about, looking up as she's explaining"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Gestures Mirror Words"
+        }
+      ],
+      "uuid": "52da47a0-15dc-4f02-86c2-3a38604992ef"
+    },
+    {
+      "start_time": 249,
+      "end_time": 255,
+      "annotation": [
+        {
+          "text": "Third time she's sort of gone down this path of questioning for characters, sort of does the same thing, speeds up while talking, hands on forehead"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Rhetorical Device"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Acting Voice"
+        }
+      ],
+      "uuid": "0963ddb7-d436-4128-a8b2-0e2ced5a436b"
+    },
+    {
+      "start_time": 256,
+      "end_time": 262,
+      "annotation": [
+        {
+          "text": "\"It's in the text\", process of questioning + revisiting text multiple times"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Script Analysis"
+        }
+      ],
+      "uuid": "85a8f5b1-a025-4e15-b61a-e0818da623b0"
+    },
+    {
+      "start_time": 291,
+      "end_time": 308,
+      "annotation": [
+        {
+          "text": "Revelatory, rejects text?, \"The words are absolutely useless\", ends with teaching voice"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Rhetorical Device"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Teaching Voice"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Script Analysis"
+        }
+      ],
+      "uuid": "f5f4418a-77b3-448b-8311-318872c09ab5"
+    }
+  ]
+}

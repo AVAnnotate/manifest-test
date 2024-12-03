@@ -1,0 +1,539 @@
+{
+  "event_id": "d567b69d-4c34-4d00-92e2-54e3a12815fc",
+  "source_id": "39bf189a-8211-4a84-ab20-9ee567d0848a",
+  "set": "Default",
+  "annotations": [
+    {
+      "start_time": 10,
+      "end_time": 40,
+      "annotation": [
+        {
+          "text": "Adler explains that you can avoid nervousness by finding \"something to hold onto.\""
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Emotional Self-Regulation"
+        }
+      ],
+      "uuid": "708e0fea-1574-4e2f-b964-9feabd6e4170"
+    },
+    {
+      "start_time": 22,
+      "end_time": 22,
+      "annotation": [
+        {
+          "text": "Adler gestures toward a student on the stage"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Teaching"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Dialogue with Students"
+        }
+      ],
+      "uuid": "caa40943-12a3-4bd1-bdb0-f6a69c64b2a9"
+    },
+    {
+      "start_time": 40,
+      "end_time": 60,
+      "annotation": [
+        {
+          "text": "Adler talks about going to the text to see that the nervousness is not in the text and comes from the self"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Themes"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Script Analysis"
+        }
+      ],
+      "uuid": "0b684c11-814d-43d7-b5f5-42db68114624"
+    },
+    {
+      "start_time": 45,
+      "end_time": 50,
+      "annotation": [
+        {
+          "text": "Adler does what appears to be an impression of a nervous actor"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Rhetorical Device"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Act-out"
+        }
+      ],
+      "uuid": "4fed9a5d-29b9-4337-a685-c761c8793ffb"
+    },
+    {
+      "start_time": 120,
+      "end_time": 120,
+      "annotation": [
+        {
+          "text": "Adler tells the student to start scene with dialogue"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Teaching"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Dialogue with Students"
+        }
+      ],
+      "uuid": "884ffa56-12e5-4ea0-9bcb-5a990561949c"
+    },
+    {
+      "start_time": 133,
+      "end_time": 150,
+      "annotation": [
+        {
+          "text": "Adler asks student who they are talking to, pointing out that not knowing your scene partner can cause nervousness"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Emotional Self-Regulation"
+        }
+      ],
+      "uuid": "3cf941f6-a1d3-4874-a66b-ed3bc3cff2fe"
+    },
+    {
+      "start_time": 150,
+      "end_time": 158,
+      "annotation": [
+        {
+          "text": "Adler acts out the internal strife of someone who does not know where their scene partner is"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Rhetorical Device"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Act-out"
+        }
+      ],
+      "uuid": "dcfaa31c-31ce-4b15-969f-eec82bf6f7db"
+    },
+    {
+      "start_time": 150,
+      "end_time": 175,
+      "annotation": [
+        {
+          "text": "Adler gestures emphatically and demonstratively"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Gesticulating"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Gestures Mirror Words"
+        }
+      ],
+      "uuid": "fdb7478f-ce58-478d-a4ad-e9ada630f55e"
+    },
+    {
+      "start_time": 180,
+      "end_time": 180,
+      "annotation": [
+        {
+          "text": "\"Where am I? Is that you?\""
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Rhetorical Device"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Act-out"
+        }
+      ],
+      "uuid": "abfaf710-a90d-496e-8e32-fe67664d437b"
+    },
+    {
+      "start_time": 185,
+      "end_time": 192,
+      "annotation": [
+        {
+          "text": "The students laugh at a joke Adler makes"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Students"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Laughing"
+        }
+      ],
+      "uuid": "99cc1082-01f5-4857-a5d3-3e0191e6f7a3"
+    },
+    {
+      "start_time": 205,
+      "end_time": 225,
+      "annotation": [
+        {
+          "text": "The student on stage recites dialogue"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Students"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Acting"
+        }
+      ],
+      "uuid": "3495b702-93a0-4b77-a5a3-88087ada0c63"
+    },
+    {
+      "start_time": 215,
+      "end_time": 222,
+      "annotation": [
+        {
+          "text": "Adler tells student to communicate to audience"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Teaching"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Giving Direction"
+        }
+      ],
+      "uuid": "b6a0215e-ccae-48c4-a250-7bbb646157b1"
+    },
+    {
+      "start_time": 225,
+      "end_time": 235,
+      "annotation": [
+        {
+          "text": "Adler interrupts very angrily, calling the student’s delivery \"terrible\""
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Teaching"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Giving Direction"
+        }
+      ],
+      "uuid": "6aea3215-4b3b-4eb9-a9c0-39727b560ccc"
+    },
+    {
+      "start_time": 225,
+      "end_time": 265,
+      "annotation": [
+        {
+          "text": "Adler talks about the mindset of a king, painting a biographical picture for the students"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Themes"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Script Analysis"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Historical Context"
+        }
+      ],
+      "uuid": "616f0d4a-21b8-426a-92de-8008b10264e1"
+    },
+    {
+      "start_time": 267,
+      "end_time": 267,
+      "annotation": [
+        {
+          "text": "The video transitions to another scene"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Recording"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transition"
+        }
+      ],
+      "uuid": "c7d191d6-3acd-462a-b868-ffb1a77c040e"
+    },
+    {
+      "start_time": 275,
+      "end_time": 275,
+      "annotation": [
+        {
+          "text": "Adler tells students to start scene"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Teaching"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Acting"
+        }
+      ],
+      "uuid": "967c461d-df96-424f-bd6f-2a61c04ce1e9"
+    },
+    {
+      "start_time": 275,
+      "end_time": 294,
+      "annotation": [
+        {
+          "text": "Two of the students act out the beginning of a scene where one is pretending to walk at the edge of a building"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Students"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Giving Direction"
+        }
+      ],
+      "uuid": "41623df4-6abe-4942-bd19-7af6a20036b2"
+    },
+    {
+      "start_time": 294,
+      "end_time": 315,
+      "annotation": [
+        {
+          "text": "Adler tells student to stop \"making believe\" they are walking and to actually walk"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Teaching"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Giving Direction"
+        }
+      ],
+      "uuid": "f75ee73c-9d81-4120-9731-975dec135f5f"
+    },
+    {
+      "start_time": 315,
+      "end_time": 360,
+      "annotation": [
+        {
+          "text": "The female student tries to explain herself, Adler responds"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Teaching"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Dialogue with Students"
+        }
+      ],
+      "uuid": "324e7e0c-965d-41b9-a6e5-5b32a184b929"
+    },
+    {
+      "start_time": 344,
+      "end_time": 349,
+      "annotation": [
+        {
+          "text": "Adler acts out walking on the edge of something, demonstrating to student how it is done"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Rhetorical Device"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Act-Out"
+        }
+      ],
+      "uuid": "d866128f-6f12-457c-a627-aa6369d1b0f5"
+    },
+    {
+      "start_time": 360,
+      "end_time": 420,
+      "annotation": [
+        {
+          "text": "Adler makes a general point about truth in acting, saying the actor’s instinct is to lie"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Themes"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Closed Fist"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Pointing"
+        }
+      ],
+      "uuid": "d1a0283f-651f-41d6-9ba8-bb36bf092495"
+    },
+    {
+      "start_time": 365,
+      "end_time": 386,
+      "annotation": [
+        {
+          "text": "Adler gestures emphatically while asking the student rhetorical questions"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Dialogue with Students"
+        }
+      ],
+      "uuid": "1ef074ef-99d5-4fcf-bb90-0aed227130bd"
+    },
+    {
+      "start_time": 365,
+      "end_time": 389,
+      "annotation": [
+        {
+          "text": "Adler has an extended, impassioned dialogue with student about truth in acting"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Teaching"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "The Truth"
+        }
+      ],
+      "uuid": "a67fd8db-2f9f-4cdb-9386-956026b5cae5"
+    },
+    {
+      "start_time": 415,
+      "end_time": 420,
+      "annotation": [
+        {
+          "text": "Adler acts out someone who wants to be watched: \"Watch me!\""
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Rhetorical Device"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Act-out"
+        }
+      ],
+      "uuid": "e4d3f17a-9c55-408a-9e6e-3b87ca57cd06"
+    },
+    {
+      "start_time": 420,
+      "end_time": 440,
+      "annotation": [
+        {
+          "text": "Adler says all actors are cursed because the default message of performance is \"watch me!\""
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "The Acting Life"
+        }
+      ],
+      "uuid": "cc389cdf-c33f-43d7-aada-9d7d7befaeb1"
+    },
+    {
+      "start_time": 445,
+      "end_time": 460,
+      "annotation": [
+        {
+          "text": "Adler once again acts out walking on an edge"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Rhetorical Device"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Act-out"
+        }
+      ],
+      "uuid": "4a25b47a-b928-4bbc-9c20-478b1df404d0"
+    },
+    {
+      "start_time": 478,
+      "end_time": 478,
+      "annotation": [
+        {
+          "text": "Adler makes an inaudible joke and the class laughs"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Students"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Laughing"
+        }
+      ],
+      "uuid": "075a5df4-7fae-4a8b-bee8-4829fa9f7813"
+    }
+  ]
+}

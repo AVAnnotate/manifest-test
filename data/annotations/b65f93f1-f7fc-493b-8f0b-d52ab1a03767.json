@@ -1,0 +1,635 @@
+{
+  "event_id": "601b2d6c-e246-4590-b0a3-2ecdb26d8b6b",
+  "source_id": "f3df8240-c841-4e26-9fed-7c43e13a951c",
+  "set": "Default",
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "text": "Motif of \"size\" and possible point about religion"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Size"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Religion"
+        }
+      ],
+      "uuid": "c5373b59-6be7-4f64-9eff-88d0f440df36"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "text": "Script Analysis and character analysis, character background"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Script Analysis"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Characterization"
+        }
+      ],
+      "uuid": "8899d9e8-70d7-485c-a594-69b3bfdd9af2"
+    },
+    {
+      "start_time": 1,
+      "end_time": 1,
+      "annotation": [
+        {
+          "text": "Takes moment to read over script then make points/draw conclusions about character"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Script Analysis"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Characterization"
+        }
+      ],
+      "uuid": "64fb7ad1-476c-404f-9a3f-11cefdce78b2"
+    },
+    {
+      "start_time": 1,
+      "end_time": 1,
+      "annotation": [
+        {
+          "text": "Talks about physicality and its relation to masculinity and specific masculinities (poet, artist, etc.)"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Masculinity"
+        }
+      ],
+      "uuid": "80613161-78e2-4e56-9163-c276967e51eb"
+    },
+    {
+      "start_time": 1,
+      "end_time": 1,
+      "annotation": [
+        {
+          "text": "More character analysis with focus on scripted behavior"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Physicality"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Script Analysis"
+        }
+      ],
+      "uuid": "9b660783-da39-4b21-99f3-af0e3013541e"
+    },
+    {
+      "start_time": 1,
+      "end_time": 1,
+      "annotation": [
+        {
+          "text": "More focus on physical aspects of character"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Physicality"
+        }
+      ],
+      "uuid": "988779d3-ff12-44dd-9259-121cf52efb00"
+    },
+    {
+      "start_time": 1,
+      "end_time": 2,
+      "annotation": [
+        {
+          "text": "Advice to \"write down the physicality of each character\" while watching plays if physicality not in the script"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Physicality"
+        }
+      ],
+      "uuid": "e9de53ec-5497-4958-a3ca-eb55a1d98b7d"
+    },
+    {
+      "start_time": 2,
+      "end_time": 2,
+      "annotation": [
+        {
+          "text": "Once again emphasis on size/masculinity"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Size"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Masculinity"
+        }
+      ],
+      "uuid": "705985bb-4c78-400c-a8e5-c6addf459c37"
+    },
+    {
+      "start_time": 2,
+      "end_time": 2,
+      "annotation": [
+        {
+          "text": "Class aspect in relation to size/masculinity"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Class"
+        }
+      ],
+      "uuid": "2391b10e-5777-48bf-b97a-401e88d86bb7"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "text": "Adler gives her interpretation of the character of Morell in George Bernard Shaw's Candida, sourcing his motivation not to religious enlightenment but to wanting to be a star who has \"found his gimmick.\""
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Teaching"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Script Analysis"
+        }
+      ],
+      "uuid": "da48eaa9-c03a-4078-9078-609049d982b2"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "text": "Adler personalizes Morell's character by positioning herself as the character, \"If I'm going to give you the blessings of the lord it's great.\""
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Rhetorical Device"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Characterization"
+        }
+      ],
+      "uuid": "f9d07d0e-940e-4485-aab6-ba2441224e7b"
+    },
+    {
+      "start_time": 1,
+      "end_time": 1,
+      "annotation": [
+        {
+          "text": "Adler does an Act-out of March Banks's character"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Rhetorical Device"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Characterization"
+        }
+      ],
+      "uuid": "b8f83469-2836-4cc1-acc4-f5c52b0f7b5e"
+    },
+    {
+      "start_time": 1,
+      "end_time": 1,
+      "annotation": [
+        {
+          "text": "Adler describes Shaw's dramatic mode as not leaving anyone \"out in the cold\" and acts out the meaning of this for her students'"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Rhetorical Device"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "George Bernard Shaw"
+        }
+      ],
+      "uuid": "87ef96e9-a67d-4bd5-953e-5b1b972c4152"
+    },
+    {
+      "start_time": 2,
+      "end_time": 2,
+      "annotation": [
+        {
+          "text": "Adler advises students to add in physical characteristics of character themselves if the play does not tell them. She authoritatively tells them to write down the physical characteristics of each character and that Shaw teaches them that."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Teaching"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Characterization"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "George Bernard Shaw"
+        }
+      ],
+      "uuid": "8253bdda-e64a-44ab-84f3-2b263f04704d"
+    },
+    {
+      "start_time": 2,
+      "end_time": 2,
+      "annotation": [
+        {
+          "text": "Adler asks students if she's being clear"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Teaching"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Clarifying Question"
+        }
+      ],
+      "uuid": "5e7d9071-0e28-4a3e-b53f-b1e735b8dbb4"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "text": "Now you see that in the play as she is shaking her pointer finger"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Pointing"
+        }
+      ],
+      "uuid": "3cf14322-4dd1-40b2-bd54-2ba467ea6f23"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "text": "I'm here to talk about God. When she says God, she lifts her hand above her head, as a way to reference him."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Act-out"
+        }
+      ],
+      "uuid": "ad6e9cf2-794b-489b-b883-e172873fad47"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "text": "Doesn't like that. She shakes her head no as she says that and she repeats it a few more times and does the same gesture"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Head Shake"
+        }
+      ],
+      "uuid": "20c2c528-c6fd-47a2-be86-b1c316d00b15"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "text": "She moves her head in specific directions as a means to convey and almost lead the conversation with her body"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Act-out"
+        }
+      ],
+      "uuid": "db357fcc-ed60-4a4a-a40e-3ab21ab7cbf1"
+    },
+    {
+      "start_time": 42,
+      "end_time": 47,
+      "annotation": [
+        {
+          "text": "Whenever she talks louder, she shakes her hands more."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Gestures Mirror Words"
+        }
+      ],
+      "uuid": "dec43117-775b-45b4-bde2-fb17d00d93ef"
+    },
+    {
+      "start_time": 52,
+      "end_time": 53,
+      "annotation": [
+        {
+          "text": "If I'm going to and then tilts her head back and shakes her head."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Head Shake"
+        }
+      ],
+      "uuid": "ac6111f2-6262-409d-a2cb-bbcdabfef6d3"
+    },
+    {
+      "start_time": 54,
+      "end_time": 55,
+      "annotation": [
+        {
+          "text": "Once again when referencing God (this time \"Lord\"), she raises her hand up above her head and looks up at it"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Act-out"
+        }
+      ],
+      "uuid": "0914dfc3-8ecd-4cf3-88ce-f68e6da6c013"
+    },
+    {
+      "start_time": 60,
+      "end_time": 61,
+      "annotation": [
+        {
+          "text": "Mr. Shaw is on to him. She peers up at the audience with her eyes, almost mischievously"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Gaze"
+        }
+      ],
+      "uuid": "b5cb5550-06ae-41b6-be6a-cd4a7d99dc63"
+    },
+    {
+      "start_time": 67,
+      "end_time": 68,
+      "annotation": [
+        {
+          "text": "Now and then pauses with a Claw Hand motion."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Claw Hand"
+        }
+      ],
+      "uuid": "7da16c1d-14fa-4282-98a4-994c79dd49c8"
+    },
+    {
+      "start_time": 70,
+      "end_time": 72,
+      "annotation": [
+        {
+          "text": "Creating a character like and then claw open, claw close multiple times."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Claw Hand"
+        }
+      ],
+      "uuid": "a0e091ae-d466-4eaf-b711-3ae1f863649d"
+    },
+    {
+      "start_time": 73,
+      "end_time": 80,
+      "annotation": [
+        {
+          "text": "She is acting it out with her body. She is hunched, then open, then little."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Gesture in Rhythm"
+        }
+      ],
+      "uuid": "bfa74025-0fe8-4f7d-9950-5179ee153905"
+    },
+    {
+      "start_time": 87,
+      "end_time": 95,
+      "annotation": [
+        {
+          "text": "Become some type of man and she is making circular gestures with her hands while clenching and opening her hands."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Circular Gesture"
+        }
+      ],
+      "uuid": "5c61482e-8fcb-4de2-ac37-00e26858d8ca"
+    },
+    {
+      "start_time": 96,
+      "end_time": 99,
+      "annotation": [
+        {
+          "text": "Sways side to side as she is trying to find the words"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Swaying"
+        }
+      ],
+      "uuid": "fc2ef4df-29d0-49cd-a10d-15b83743c3ac"
+    },
+    {
+      "start_time": 100,
+      "end_time": 100,
+      "annotation": [
+        {
+          "text": "Major jerk at the word \"behavior.\""
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Gestures Mirror Words"
+        }
+      ],
+      "uuid": "80569c82-e4a3-495d-9401-860945a9ddbc"
+    },
+    {
+      "start_time": 105,
+      "end_time": 107,
+      "annotation": [
+        {
+          "text": "Finger up and pointing"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Pointing"
+        }
+      ],
+      "uuid": "f8a0d600-b340-4855-a32c-bad506ea4028"
+    },
+    {
+      "start_time": 109,
+      "end_time": 110,
+      "annotation": [
+        {
+          "text": "He goes into the back. She takes her arms and through a large circular motion, puts her hands behind her."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Circular Gesture"
+        }
+      ],
+      "uuid": "6b26a497-64c8-4696-98eb-77e62cb55660"
+    },
+    {
+      "start_time": 111,
+      "end_time": 113,
+      "annotation": [
+        {
+          "text": "He shrivels up and sits this way. She acts this entire sequence out"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Act-out"
+        }
+      ],
+      "uuid": "6f441176-bdae-48b1-adc1-ab18c8c223e2"
+    },
+    {
+      "start_time": 117,
+      "end_time": 120,
+      "annotation": [
+        {
+          "text": "She is gesticulating each beat of what she is saying."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Gesture in Rhythm"
+        }
+      ],
+      "uuid": "dc7f8286-8da1-4434-96fa-d76696594623"
+    },
+    {
+      "start_time": 124,
+      "end_time": 126,
+      "annotation": [
+        {
+          "text": "More aggressive pointing with the rhythm."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Gesture in Rhythm"
+        }
+      ],
+      "uuid": "8e014f71-7e51-4fb5-a755-7570952dbadb"
+    },
+    {
+      "start_time": 140,
+      "end_time": 141,
+      "annotation": [
+        {
+          "text": "She licks her lips and looks down, while pausing."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Lips"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Dramatic Pause"
+        }
+      ],
+      "uuid": "d1594646-8f31-46ad-b282-11dc2a405d00"
+    },
+    {
+      "start_time": 148,
+      "end_time": 150,
+      "annotation": [
+        {
+          "text": "Either spiritually, or intellectually. She is shaking her hand while saying that."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Gestures Mirror Words"
+        }
+      ],
+      "uuid": "caac1bb9-1312-4551-ae2c-0e081136091e"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "audiovisual_files": {
+    "39bf189a-8211-4a84-ab20-9ee567d0848a": {
+      "label": "AV File 4",
+      "file_url": "https://ia800305.us.archive.org/22/items/ads-0093/ADS0093.mp4",
+      "duration": 490
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "created_at": "2024-12-03T16:02:12.038Z",
+  "created_by": "SteveMarvin",
+  "item_type": "Video",
+  "label": "Imported Event 4",
+  "updated_at": "2024-12-03T16:02:12.038Z",
+  "updated_by": "SteveMarvin"
+}

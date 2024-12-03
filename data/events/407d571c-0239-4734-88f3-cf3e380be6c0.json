@@ -1,0 +1,26 @@
+{
+  "audiovisual_files": {
+    "a6de03c7-ce81-4bca-a640-46d95279c7d0": {
+      "label": "AV File 8",
+      "file_url": "https://ia600305.us.archive.org/27/items/ads-0243/ADS0243.mp4",
+      "duration": 317
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "created_at": "2024-12-03T16:02:12.105Z",
+  "created_by": "SteveMarvin",
+  "item_type": "Video",
+  "label": "Imported Event 8",
+  "updated_at": "2024-12-03T16:02:12.105Z",
+  "updated_by": "SteveMarvin"
+}

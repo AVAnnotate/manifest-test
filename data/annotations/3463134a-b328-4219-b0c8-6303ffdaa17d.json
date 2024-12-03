@@ -1,0 +1,387 @@
+{
+  "event_id": "911103bc-97df-4ab0-8f56-98d3c71b3aa5",
+  "source_id": "fff8c144-0497-437d-b302-f13edabb91ce",
+  "set": "Default",
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "text": "She is pointing at the student."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Pointing"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Class"
+        }
+      ],
+      "uuid": "e1cd97d1-82f0-4593-900a-caf960f84c0a"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "text": "Acting out the emotions in which the student should convey."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Gestures in Rhythm"
+        }
+      ],
+      "uuid": "67b1c025-4f5a-4127-b6f7-b59880337cde"
+    },
+    {
+      "start_time": 1,
+      "end_time": 1,
+      "annotation": [
+        {
+          "text": "When talking about a broad theme like Christianity, she makes a rainbow motion with her hands."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Gesticulating"
+        }
+      ],
+      "uuid": "e711049e-bf52-4e58-a3a9-8148db4248cd"
+    },
+    {
+      "start_time": 1,
+      "end_time": 1,
+      "annotation": [
+        {
+          "text": "Use push and air motions once again to emphasize her points."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Gesticulating"
+        }
+      ],
+      "uuid": "2d92fd35-9ce5-4c07-8709-a8d62ac12b44"
+    },
+    {
+      "start_time": 1,
+      "end_time": 1,
+      "annotation": [
+        {
+          "text": "She makes circular motions as if to say from me to you and also does so in a manner that creates rhythm."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Gestures In Rhythm"
+        }
+      ],
+      "uuid": "c27483a4-1365-4d68-b123-d166281d188b"
+    },
+    {
+      "start_time": 2,
+      "end_time": 2,
+      "annotation": [
+        {
+          "text": "You don't know who you're talking to as she uses her hand motions to point to the audience."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Come Hither Motion"
+        }
+      ],
+      "uuid": "e3beddc2-f4df-4ee6-a35e-e3d25d37cf49"
+    },
+    {
+      "start_time": 2,
+      "end_time": 2,
+      "annotation": [
+        {
+          "text": "Where is my partner!! She is using her body to express the emotions that she wants her students to convey."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Gestures in Rhythm"
+        }
+      ],
+      "uuid": "f19942ba-9b71-431a-82a1-fb92b42888ab"
+    },
+    {
+      "start_time": 2,
+      "end_time": 2,
+      "annotation": [
+        {
+          "text": "There is a lot of aggressive hand gestures in this moment. She is using her arms as a way to create a point, to allow there to be a sense of rhythm that is created and as a way for her to find her thoughts."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Gestures in Rhythm"
+        }
+      ],
+      "uuid": "19bc8cfb-afff-48db-9031-3753ee255575"
+    },
+    {
+      "start_time": 3,
+      "end_time": 3,
+      "annotation": [
+        {
+          "text": "Repeats, \"where am I, is that you\" twice in two very different ways then says there will not be you. Does this as a way to provide an example to the class."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Gestures in Rhythm"
+        }
+      ],
+      "uuid": "7f471121-dcf8-4062-a114-470614456adf"
+    },
+    {
+      "start_time": 3,
+      "end_time": 3,
+      "annotation": [
+        {
+          "text": "The students are laughing and she has one hand over her heart and the other shaking in the air. She twitches violently as a way to be funny."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Gestures in Rhythm"
+        }
+      ],
+      "uuid": "60b48b32-a0f0-4ab7-8591-bba6846ebaab"
+    },
+    {
+      "start_time": 3,
+      "end_time": 3,
+      "annotation": [
+        {
+          "text": "She is making clawed, beat motions with her hands as a means to relate to the student and get him to perform the way that she wants him to."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Gestures in Rhythm"
+        }
+      ],
+      "uuid": "fd3be6e0-fd9a-4102-b56a-05d81a6a97d1"
+    },
+    {
+      "start_time": 3,
+      "end_time": 4,
+      "annotation": [
+        {
+          "text": "She is twitching in anger as she talks about the student's performance being boring. She uses her body as a way to convey her dissatisfaction."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Gestures in Rhythm"
+        }
+      ],
+      "uuid": "a1bf5889-f444-45c7-acfc-6859d0b28ec0"
+    },
+    {
+      "start_time": 4,
+      "end_time": 4,
+      "annotation": [
+        {
+          "text": "For generations while making a circular motion with her body."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Come hither motion"
+        }
+      ],
+      "uuid": "6078dc0c-e669-4a6e-8130-93869e448aa9"
+    },
+    {
+      "start_time": 4,
+      "end_time": 4,
+      "annotation": [
+        {
+          "text": "Your thinking is poor and more usage of her arms and her body to really make a point."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Gestures in Rhythm"
+        }
+      ],
+      "uuid": "ebc129bf-3628-47f1-9b40-6ac2cc757453"
+    },
+    {
+      "start_time": 5,
+      "end_time": 5,
+      "annotation": [
+        {
+          "text": "Lots of motion, lots of acting! She acts it out so that her student completely understands what she wants."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Gestures in Rhythm"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Script Analysis"
+        }
+      ],
+      "uuid": "b20cf78a-a3e3-4e84-ba4e-0da246594646"
+    },
+    {
+      "start_time": 6,
+      "end_time": 6,
+      "annotation": [
+        {
+          "text": "What is that insanity. Tell me! She acts it out, her students laugh. She wants them to truly understand what she is trying to say. She repeats it back to the original student and her gestures are getting bolder. It's almost as if she wants her student to feel the desperation."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Gestures in Rhythm"
+        }
+      ],
+      "uuid": "618dbbf1-46a3-4c2e-9afb-54c505ff7c57"
+    },
+    {
+      "start_time": 6,
+      "end_time": 6,
+      "annotation": [
+        {
+          "text": "Don't you know that only you know. Lots of circular motions, trying to really make a point to her student."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Gestures in Rhythm"
+        }
+      ],
+      "uuid": "de6b05b0-0671-4e80-9e85-0c13345f294c"
+    },
+    {
+      "start_time": 6,
+      "end_time": 6,
+      "annotation": [
+        {
+          "text": "Only you lie! As she continues to point at the student in a repeated motion."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Pointing"
+        }
+      ],
+      "uuid": "28b4f5f1-1390-4e8d-a71d-dab0f2e90b06"
+    },
+    {
+      "start_time": 6,
+      "end_time": 6,
+      "annotation": [
+        {
+          "text": "Lie!!! She screams as her hands shake, quite literally vibrating."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Gestures in Rhythm"
+        }
+      ],
+      "uuid": "4121238e-eaff-464f-967e-d886ef7a9427"
+    },
+    {
+      "start_time": 6,
+      "end_time": 6,
+      "annotation": [
+        {
+          "text": "Everyone look at me while I lie and then she opens her arms out. A grand gesture to convey her feelings. She often uses her body as a vehicle of emotions."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Script Analysis"
+        }
+      ],
+      "uuid": "9fcf2bdb-3ebc-45f3-b8f2-007b383ba412"
+    },
+    {
+      "start_time": 6,
+      "end_time": 6,
+      "annotation": [
+        {
+          "text": "Do you want SO much to be seen."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Come Hither Motion"
+        }
+      ],
+      "uuid": "a8603824-7fce-4a8c-8d3a-e7b82ea2c7c8"
+    },
+    {
+      "start_time": 6,
+      "end_time": 7,
+      "annotation": [
+        {
+          "text": "Watch me. She repeats those words three different times with her progressively getting louder as she does so. And she is using her arms to really emphasize her point. The gestures get bigger and bigger."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Gestures in Rhythm"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Script Analysis"
+        }
+      ],
+      "uuid": "529da8a9-98c6-4038-8551-663abdefa5aa"
+    },
+    {
+      "start_time": 7,
+      "end_time": 7,
+      "annotation": [
+        {
+          "text": "And in doing, you talk. Out of doing you talk."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Come Hither Motion"
+        }
+      ],
+      "uuid": "f57a643d-151e-45c9-9a68-693ab4e6df41"
+    }
+  ]
+}

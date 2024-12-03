@@ -1,0 +1,743 @@
+{
+  "event_id": "68bae74a-1250-42e2-9b10-d98422111fff",
+  "source_id": "6fdd5d44-eccd-4037-b822-7d37f7327fca",
+  "set": "Default",
+  "annotations": [
+    {
+      "start_time": 2,
+      "end_time": 22,
+      "annotation": [
+        {
+          "text": "Students in the audience nod and mumble along. Responding when Adler asks if they know what \"The Norm is\""
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Students"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "The Norm"
+        }
+      ],
+      "uuid": "a9240da0-4da3-447c-b4ea-b5a579ca4acd"
+    },
+    {
+      "start_time": 44,
+      "end_time": 44,
+      "annotation": [
+        {
+          "text": "Adler discusses the idea that the greatest gift give to an actor is \"being himself.\""
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "The Truth"
+        }
+      ],
+      "uuid": "320e377d-1dcd-4585-bb15-a7739326a20c"
+    },
+    {
+      "start_time": 48,
+      "end_time": 53,
+      "annotation": [
+        {
+          "text": "Adler’s hands gesticulate in rhythm with her speech"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Laurence Olivier"
+        }
+      ],
+      "uuid": "f8447a65-664a-4c79-aec4-9fc403cf82ac"
+    },
+    {
+      "start_time": 90,
+      "end_time": 90,
+      "annotation": [
+        {
+          "text": "One hand in a fist while talking"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Closed Fist"
+        }
+      ],
+      "uuid": "507b1b52-4fb6-40b3-b85b-374dc9eca2e7"
+    },
+    {
+      "start_time": 101,
+      "end_time": 101,
+      "annotation": [
+        {
+          "text": "Adler asks who is shy and implores students to \"come on up\" to the stage with a come hither motion"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Teaching"
+        }
+      ],
+      "uuid": "d85312b0-c680-48d8-b341-f1d21c3daa97"
+    },
+    {
+      "start_time": 115,
+      "end_time": 115,
+      "annotation": [
+        {
+          "text": "All of the \"shy\" students to come up on stage are women"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Students"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Gender"
+        }
+      ],
+      "uuid": "8d3bd932-f2ee-4313-9c6c-b840ee99fde4"
+    },
+    {
+      "start_time": 120,
+      "end_time": 150,
+      "annotation": [
+        {
+          "text": "A discussion of shyness in general followed by imploring students to look at her and then at the audience"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Teaching"
+        }
+      ],
+      "uuid": "5226a571-1fe0-43b8-bf0f-fb63a24b8ca6"
+    },
+    {
+      "start_time": 155,
+      "end_time": 155,
+      "annotation": [
+        {
+          "text": "Shaking students hands"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Student Interaction"
+        }
+      ],
+      "uuid": "cb92d766-d1fe-43df-9536-1615ef08c5b9"
+    },
+    {
+      "start_time": 163,
+      "end_time": 163,
+      "annotation": [
+        {
+          "text": "\"I shook Miss Adler’s hand.\" Adler asks student to tell the audience what she’s done. Student seems nervous."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Students"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Students"
+        }
+      ],
+      "uuid": "1670fc6d-02c0-4f9c-b63a-4ade51adc086"
+    },
+    {
+      "start_time": 165,
+      "end_time": 205,
+      "annotation": [
+        {
+          "text": "Adler discusses talking in and shyness in general and young people and shyness"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Voice"
+        }
+      ],
+      "uuid": "84375aed-e2aa-41ea-a12c-2531c1979b29"
+    },
+    {
+      "start_time": 208,
+      "end_time": 213,
+      "annotation": [
+        {
+          "text": "Speaking in unison they repeat after Adler"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Students"
+        }
+      ],
+      "uuid": "82dad067-58af-4970-90b5-8f7f97f26641"
+    },
+    {
+      "start_time": 214,
+      "end_time": 214,
+      "annotation": [
+        {
+          "text": "\"I live now with the birds in Hollywood.\""
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Joke"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Film Industry"
+        }
+      ],
+      "uuid": "c6097f7a-bc44-402d-8a10-761b263177ce"
+    },
+    {
+      "start_time": 228,
+      "end_time": 228,
+      "annotation": [
+        {
+          "text": "Wagging finger"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Gesticulating"
+        }
+      ],
+      "uuid": "2c78e7f0-eb3a-4385-a947-5722b06f5dfd"
+    },
+    {
+      "start_time": 230,
+      "end_time": 282,
+      "annotation": [
+        {
+          "text": "Talking in and talking out. Withdrawing is against human nature. It’s going to murder you!"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Hyperbole"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Human Nature"
+        }
+      ],
+      "uuid": "652a6512-8ba3-41be-91f1-90176532c831"
+    },
+    {
+      "start_time": 284,
+      "end_time": 284,
+      "annotation": [
+        {
+          "text": "There’s a major cut in the recording and it seems like another lesson"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Recording"
+        }
+      ],
+      "uuid": "b3742b71-5c7a-4c81-beba-8168a35f4703"
+    },
+    {
+      "start_time": 288,
+      "end_time": 302,
+      "annotation": [
+        {
+          "text": "Adler discusses the situation for the student actors. It is a scene from the play The Father by Strindberg."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Teaching"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "August Strindberg"
+        }
+      ],
+      "uuid": "3c012202-f382-4007-83a3-aa0fc10beae3"
+    },
+    {
+      "start_time": 303,
+      "end_time": 360,
+      "annotation": [
+        {
+          "text": "The man and the woman are in conflict over the child’s education. The man wants to maintain authority to avoid emasculation."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Teaching"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Gender"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Masculinity"
+        }
+      ],
+      "uuid": "2100319a-254b-4a34-a2f7-e7c0a20869f2"
+    },
+    {
+      "start_time": 367,
+      "end_time": 367,
+      "annotation": [
+        {
+          "text": "Distinguishing between the woman in Ibsen and the woman in Strindberg."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Teaching"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "August Strindberg"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Anton Chekov"
+        }
+      ],
+      "uuid": "de87289f-c975-482f-b78d-3112e5066fd4"
+    },
+    {
+      "start_time": 389,
+      "end_time": 389,
+      "annotation": [
+        {
+          "text": "Emphasizes power struggle with balled fists and introduces the two student actors"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Teaching"
+        }
+      ],
+      "uuid": "1ea069d5-1ce1-4509-b496-927f8986d85c"
+    },
+    {
+      "start_time": 395,
+      "end_time": 656,
+      "annotation": [
+        {
+          "text": "Students act out scene from The Father involving the family in debt and the mother’s expenses being tracked. The father interfering in her idea of how the child should be raised. Men as purchasing women and therefore the mother has no right over her child. Wife uses the logic that since we cannot know for sure who the father of a child is the mother should be in charge of raising the child. Husband dismisses the possibility that his wife may have \"been unfaithful.\""
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Students"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Class"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Economics"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Family"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Gender"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "August Strindberg"
+        }
+      ],
+      "uuid": "01335c39-bfa4-4c8e-8990-b88d470d3b9f"
+    },
+    {
+      "start_time": 656,
+      "end_time": 664,
+      "annotation": [
+        {
+          "text": "Clapping"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Environment"
+        }
+      ],
+      "uuid": "02b6acd4-e2d0-46e9-92e2-b215367b210e"
+    },
+    {
+      "start_time": 667,
+      "end_time": 667,
+      "annotation": [
+        {
+          "text": "Begin new section of recording. Voiceover recording. Two men act out a scene from the play Time Limit by Karl Malden."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Recording"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Karl Malden"
+        }
+      ],
+      "uuid": "dbefd988-60d9-4736-9d2f-666c852b4ca8"
+    },
+    {
+      "start_time": 680,
+      "end_time": 899,
+      "annotation": [
+        {
+          "text": "Scene from Time Limit"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Students"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Military"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Cold War"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Communism"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Human Nature"
+        }
+      ],
+      "uuid": "13c762e5-84d7-43da-be89-a818da438ec4"
+    },
+    {
+      "start_time": 901,
+      "end_time": 910,
+      "annotation": [
+        {
+          "text": "Clapping"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Environment"
+        }
+      ],
+      "uuid": "b45389a4-1776-4ff0-98e8-f06bfcd6c20f"
+    },
+    {
+      "start_time": 911,
+      "end_time": 937,
+      "annotation": [
+        {
+          "text": "Adler begins critique of the scene, especially involving characterization."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Teaching"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "The Method"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "The Truth"
+        }
+      ],
+      "uuid": "dacdcfd2-2209-44f4-be2c-26048bef080e"
+    },
+    {
+      "start_time": 938,
+      "end_time": 1000,
+      "annotation": [
+        {
+          "text": "Adler discusses playing evil characters and that one must decide what the character is going to be. That he is necessarily different from the actor himself. The actor is NOT a \"sniveling\" major and doesn't think like one. So he must make the character different from himself."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Teaching"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "The Method"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Imagination"
+        }
+      ],
+      "uuid": "ae4af0d1-c712-4301-ace9-a5427ad111c3"
+    },
+    {
+      "start_time": 1001,
+      "end_time": 1025,
+      "annotation": [
+        {
+          "text": "Adler characterizes her sense of The Major. That he uses his mind and does not easily lose his temper. She becomes increasingly loud and impassioned."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Teaching"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Characterization"
+        }
+      ],
+      "uuid": "7e1d39c7-798f-4245-8ad5-6f062c9ff1f0"
+    },
+    {
+      "start_time": 1025,
+      "end_time": 1025,
+      "annotation": [
+        {
+          "text": "Adler emphatically points upwards with one finger while taking on the characterization of The Major."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Characterization"
+        }
+      ],
+      "uuid": "4c752413-7584-42bd-ac31-163d487fe24f"
+    },
+    {
+      "start_time": 1027,
+      "end_time": 1079,
+      "annotation": [
+        {
+          "text": "Adler interprets the situation as being about democracy vs. the idea of a dog eat dog world. She asks the student if he is a strong and articulate man. He says yes. She says a strong and articulate man is \"pulled together.\""
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Teaching"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Democracy"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Masculinity"
+        }
+      ],
+      "uuid": "3dad13c6-afff-47ed-8388-048f0e827b35"
+    },
+    {
+      "start_time": 1080,
+      "end_time": 1110,
+      "annotation": [
+        {
+          "text": "Adler discusses how the actor must create a comportment and how he must \"build\" the body of a character. A strong man does not slouch. She begins to discuss social realism."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Teaching"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Realism"
+        }
+      ],
+      "uuid": "75bc0f7e-31fb-4b71-881d-45abaf6c9251"
+    },
+    {
+      "start_time": 1110,
+      "end_time": 1130,
+      "annotation": [
+        {
+          "text": "Adler critiques casualness and discusses the level of detail necessary to \"help the play\" maintain its sense of realism."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Teaching"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Costume"
+        }
+      ],
+      "uuid": "c0af36b1-d149-45e9-a250-0613ba67672f"
+    },
+    {
+      "start_time": 1131,
+      "end_time": 1131,
+      "annotation": [
+        {
+          "text": "Break in recording begin new clip of a television interview with Adler"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Recording"
+        }
+      ],
+      "uuid": "b076d34c-080c-4103-b5bb-3728c2a30d89"
+    },
+    {
+      "start_time": 1133,
+      "end_time": 1148,
+      "annotation": [
+        {
+          "text": "The interviewer asks whether locale makes a difference for the actor and implies that Adler has just recently moved \"here\" aka Los Angeles."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "17828720-ec88-4572-84f9-6c145b006c2c"
+    },
+    {
+      "start_time": 1149,
+      "end_time": 1189,
+      "annotation": [
+        {
+          "text": "Adler discusses the role that place has upon the actor. But that actors are the same everywhere. They are \"fanatics.\" And in the US that means studying to become an actor."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "The Acting Life"
+        }
+      ],
+      "uuid": "1b725bb5-f3cb-45e4-afe4-dd07fe222bb0"
+    },
+    {
+      "start_time": 1190,
+      "end_time": 1236,
+      "annotation": [
+        {
+          "text": "Adler states that the actor is dedicated to himself, then the personality that sells, then he is dedicated to money, then to his family, then to his swimming pool (joke), then more dedicated to his property"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Technique"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Class"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Capitalism"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Family"
+        }
+      ],
+      "uuid": "7d0164fc-78f3-403d-90b1-56dca300b574"
+    },
+    {
+      "start_time": 1237,
+      "end_time": 1282,
+      "annotation": [
+        {
+          "text": "Adler says that in America the theater has been a victim of success, mechanization. But now it is coming of age. We need a National theater of American ideas that states those ideas in Europe. American actors excel at making the world laugh, but we must also make it think."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "America"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "National Identity"
+        }
+      ],
+      "uuid": "586cacd9-6d1b-433a-b6f6-30e8cbe95161"
+    },
+    {
+      "start_time": 1283,
+      "end_time": 1308,
+      "annotation": [
+        {
+          "text": "The actor must not simply say, make me famous. But what can I say to the world. Adler discusses different acting schools associated with national identities."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "National identity"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Moscow arts"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Comedy Francais"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Swedish theater"
+        }
+      ],
+      "uuid": "9009eca2-896a-4477-90f7-7565a69d750d"
+    }
+  ]
+}

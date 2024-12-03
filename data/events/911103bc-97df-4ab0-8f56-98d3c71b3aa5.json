@@ -1,0 +1,26 @@
+{
+  "audiovisual_files": {
+    "fff8c144-0497-437d-b302-f13edabb91ce": {
+      "label": "AV File 3",
+      "file_url": "https://ia600306.us.archive.org/19/items/ads-0155/ADS0155.mp4",
+      "duration": 184
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "created_at": "2024-12-03T16:02:12.020Z",
+  "created_by": "SteveMarvin",
+  "item_type": "Video",
+  "label": "Imported Event 3",
+  "updated_at": "2024-12-03T16:02:12.021Z",
+  "updated_by": "SteveMarvin"
+}

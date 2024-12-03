@@ -1,0 +1,26 @@
+{
+  "audiovisual_files": {
+    "232f1653-2bd9-4bcf-8e38-e8afba8bf40e": {
+      "label": "AV File 5",
+      "file_url": "https://ia800302.us.archive.org/12/items/ads-0324/ADS0324.mp4",
+      "duration": 376
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "created_at": "2024-12-03T16:02:12.044Z",
+  "created_by": "SteveMarvin",
+  "item_type": "Video",
+  "label": "Imported Event 5",
+  "updated_at": "2024-12-03T16:02:12.044Z",
+  "updated_by": "SteveMarvin"
+}

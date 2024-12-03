@@ -1,0 +1,343 @@
+{
+  "event_id": "7ea3461b-fbb5-4127-83eb-af3fd4d19c50",
+  "source_id": "b6a32673-8547-43c7-93ea-325fedbf2026",
+  "set": "Default",
+  "annotations": [
+    {
+      "start_time": 18,
+      "end_time": 27,
+      "annotation": [
+        {
+          "text": "Mention importance of understanding middle class for social situation of the play"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Class"
+        }
+      ],
+      "uuid": "8b256a24-a479-41ab-98af-868689255d6f"
+    },
+    {
+      "start_time": 37,
+      "end_time": 46,
+      "annotation": [
+        {
+          "text": "Asks students a question, possible relation to typage (some people \"can't\" play the character in question)"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Student Interaction"
+        }
+      ],
+      "uuid": "f7d3f889-af52-4605-8bd0-3c98c8618cfe"
+    },
+    {
+      "start_time": 68,
+      "end_time": 80,
+      "annotation": [
+        {
+          "text": "Another mention of middle class as \"ethical\" and \"honest\""
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Class"
+        }
+      ],
+      "uuid": "33d8925b-22e3-4661-a7e0-eaf4aaefc2b6"
+    },
+    {
+      "start_time": 82,
+      "end_time": 97,
+      "annotation": [
+        {
+          "text": "Importance of religion to the middle class, hand starts motioning as she mentions what god has given to the middle class"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Religion"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Gestures in Rhythm"
+        }
+      ],
+      "uuid": "8a266a11-35a9-4910-a106-8c39258ce717"
+    },
+    {
+      "start_time": 100,
+      "end_time": 126,
+      "annotation": [
+        {
+          "text": "Hands motioning side to side/circling as she tries to connect points about god and institutions, then starts motioning outward as she describes the actual impact on these things, body language telling story"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Religion"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Gestures Mirror Words"
+        }
+      ],
+      "uuid": "19ab7faa-48b9-4ba7-bb71-a26037b7e3fd"
+    },
+    {
+      "start_time": 127,
+      "end_time": 139,
+      "annotation": [
+        {
+          "text": "Tells student not to yawn because \"if you are an actress you will not get tired,\" makes a joke and the rest of the class laughs"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Student Interaction"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Emotional Self-Regulation"
+        }
+      ],
+      "uuid": "869fc36b-7719-4307-b264-d7f4888236bd"
+    },
+    {
+      "start_time": 140,
+      "end_time": 147,
+      "annotation": [
+        {
+          "text": "Her mock acting occurring again, except this time she’s mocking a student to make a point and not the play"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Student Interaction"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Teaching Voice"
+        }
+      ],
+      "uuid": "187db1f7-fab5-45c7-b20a-5bb3cd9e195e"
+    },
+    {
+      "start_time": 148,
+      "end_time": 157,
+      "annotation": [
+        {
+          "text": "\"There is no you\", you're only the character, pretty clear idea of The Method coming out"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Emotional Self-Regulation"
+        }
+      ],
+      "uuid": "ecbed6ec-740a-4951-868f-9e65b858bcb5"
+    },
+    {
+      "start_time": 158,
+      "end_time": 167,
+      "annotation": [
+        {
+          "text": "Tries to make a point about the importance of \"giving up you\" but mocks herself for a moment, good humour about these things"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Emotional Self-Regulation"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Act-out"
+        }
+      ],
+      "uuid": "e0d3c6f7-6e9f-439d-bc1f-379a048cec86"
+    },
+    {
+      "start_time": 167,
+      "end_time": 175,
+      "annotation": [
+        {
+          "text": "Pauses for class to laugh, smug expression"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Student Interaction"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Dramatic Pause"
+        }
+      ],
+      "uuid": "561f7407-bd0e-4105-9d24-1ecfa11aebad"
+    },
+    {
+      "start_time": 176,
+      "end_time": 179,
+      "annotation": [
+        {
+          "text": "\"There is no me\""
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Emotional Self-Regulation"
+        }
+      ],
+      "uuid": "22bdb4a8-a964-48d8-86ee-d3ff4b0848c3"
+    },
+    {
+      "start_time": 187,
+      "end_time": 200,
+      "annotation": [
+        {
+          "text": "Mentions extensive knowledge about Norway, obvious connection to Scandinavian theater/Ibsen, makes extended joke about Norway and how she should just teach the class about Norway, turns away from the class as she jokes"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Rhetorical Device"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Ibsen"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Scandinavian Theater"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Discussing Personal Experiences"
+        }
+      ],
+      "uuid": "8c6c3c74-8fea-45d8-99c2-5fd27694651c"
+    },
+    {
+      "start_time": 201,
+      "end_time": 209,
+      "annotation": [
+        {
+          "text": "Mock acting again, this time taking on a Norwegian character to make a funny point to the class"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Rhetorical Device"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Scandinavian Theater"
+        }
+      ],
+      "uuid": "5a05f692-c494-42ce-950d-a9e2b2961924"
+    },
+    {
+      "start_time": 223,
+      "end_time": 243,
+      "annotation": [
+        {
+          "text": "Historical context of war and possible impact it had on men in society"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Masculinity"
+        }
+      ],
+      "uuid": "b1e06e86-424e-4066-b91d-7ccb7cf4cf90"
+    },
+    {
+      "start_time": 245,
+      "end_time": 248,
+      "annotation": [
+        {
+          "text": "Long pause, starting to get serious again after joking around, teaching voice back on"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Rhetorical Device"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Dramatic Pause"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Teaching Voice"
+        }
+      ],
+      "uuid": "877ce0f8-9e2e-440c-b806-7ddc1cbf7c64"
+    },
+    {
+      "start_time": 251,
+      "end_time": 263,
+      "annotation": [
+        {
+          "text": "Historical context on Norway and Ibsen, serious and emotional again, explains impacts war had on Ibsen"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Theory and Technique"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Henrik Ibsen"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Scandinavian theater"
+        }
+      ],
+      "uuid": "95ef27ff-cb19-4fc7-b6eb-f6b7a352da52"
+    },
+    {
+      "start_time": 264,
+      "end_time": 273,
+      "annotation": [
+        {
+          "text": "Breaks out of seriousness again as she realizes she has once again adopted Norwegianness (as The Method would have it for her character), but nonetheless continues to explain background"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Rhetorical Device"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Scandinavian Theater"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Discussing Personal Experiences"
+        }
+      ],
+      "uuid": "0983715f-2d5a-4ffe-939b-7ed70f93048a"
+    }
+  ]
+}

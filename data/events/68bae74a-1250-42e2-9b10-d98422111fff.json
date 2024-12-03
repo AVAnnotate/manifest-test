@@ -1,0 +1,26 @@
+{
+  "audiovisual_files": {
+    "6fdd5d44-eccd-4037-b822-7d37f7327fca": {
+      "label": "AV File 6",
+      "file_url": "https://ia800308.us.archive.org/26/items/ads-0167_202404/ADS0167.mp4",
+      "duration": 1337
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "created_at": "2024-12-03T16:02:12.063Z",
+  "created_by": "SteveMarvin",
+  "item_type": "Video",
+  "label": "Imported Event 6",
+  "updated_at": "2024-12-03T16:02:12.063Z",
+  "updated_by": "SteveMarvin"
+}

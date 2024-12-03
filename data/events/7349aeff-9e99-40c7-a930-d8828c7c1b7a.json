@@ -1,0 +1,26 @@
+{
+  "audiovisual_files": {
+    "07c8a925-165b-4648-825e-b2e1e9727b04": {
+      "label": "AV File 7",
+      "file_url": "https://ia600300.us.archive.org/22/items/ads-0244/ADS0244.mp4",
+      "duration": 561
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "created_at": "2024-12-03T16:02:12.105Z",
+  "created_by": "SteveMarvin",
+  "item_type": "Video",
+  "label": "Imported Event 7",
+  "updated_at": "2024-12-03T16:02:12.105Z",
+  "updated_by": "SteveMarvin"
+}

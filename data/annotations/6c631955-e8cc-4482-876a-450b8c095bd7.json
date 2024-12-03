@@ -1,0 +1,471 @@
+{
+  "event_id": "997d5b77-bab5-4daf-b63b-61831517ffe5",
+  "source_id": "232f1653-2bd9-4bcf-8e38-e8afba8bf40e",
+  "set": "Default",
+  "annotations": [
+    {
+      "start_time": 15,
+      "end_time": 16,
+      "annotation": [
+        {
+          "text": "Miss Julie breaks through as she makes a clawed, breaking gesture with her hands."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "The Method"
+        }
+      ],
+      "uuid": "a773cb46-0aa1-469c-9f62-df24cc119af0"
+    },
+    {
+      "start_time": 20,
+      "end_time": 25,
+      "annotation": [
+        {
+          "text": "Keeps making circular motions from the body to the outside over and over again as she talks about the \"inside.\""
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "The Method"
+        }
+      ],
+      "uuid": "1a109220-6d51-406b-9341-d23dc5ec7086"
+    },
+    {
+      "start_time": 42,
+      "end_time": 45,
+      "annotation": [
+        {
+          "text": "I don't want the church to influence them."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Religion"
+        }
+      ],
+      "uuid": "dc654d4f-6fb9-4e11-aa26-8dbf363179a6"
+    },
+    {
+      "start_time": 44,
+      "end_time": 46,
+      "annotation": [
+        {
+          "text": "Pause, lick lips."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Dramatic Pause"
+        }
+      ],
+      "uuid": "58522e52-07b6-4ac5-b23f-5d23ab8156d8"
+    },
+    {
+      "start_time": 49,
+      "end_time": 50,
+      "annotation": [
+        {
+          "text": "I want something bigger than that and she jerks her head forward."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "The Method"
+        }
+      ],
+      "uuid": "e270a0ba-96f1-422f-a08e-3e4d928dd3cf"
+    },
+    {
+      "start_time": 52,
+      "end_time": 53,
+      "annotation": [
+        {
+          "text": "Repeats the motion as above."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "The Method"
+        }
+      ],
+      "uuid": "5e345681-7fa5-4ddb-937d-ac1d0e60379b"
+    },
+    {
+      "start_time": 57,
+      "end_time": 59,
+      "annotation": [
+        {
+          "text": "Just because he is bored and she shakes her head violently and then throws her hand out in front of her."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Class"
+        }
+      ],
+      "uuid": "ff32d323-33b9-4afd-92df-a6e25275a1e7"
+    },
+    {
+      "start_time": 65,
+      "end_time": 70,
+      "annotation": [
+        {
+          "text": "The things that you would consider normal was considered vulgar."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Class"
+        }
+      ],
+      "uuid": "ddf1826d-752d-4622-bf95-19a6c233b9e6"
+    },
+    {
+      "start_time": 77,
+      "end_time": 79,
+      "annotation": [
+        {
+          "text": "Circular hand motions once more."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "The Method"
+        }
+      ],
+      "uuid": "a68f0d50-3e16-43ee-877a-f06ea53c217b"
+    },
+    {
+      "start_time": 89,
+      "end_time": 91,
+      "annotation": [
+        {
+          "text": "See that she changes her position to look at the audience."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "The Method"
+        }
+      ],
+      "uuid": "e3b4b5b1-5aa6-41a0-8c00-6136677bd07f"
+    },
+    {
+      "start_time": 100,
+      "end_time": 105,
+      "annotation": [
+        {
+          "text": "I don't want to be the muse in the theater, I want to be interested."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Identity"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Class"
+        }
+      ],
+      "uuid": "a90b377e-ad4c-4c28-b95e-8578fab4b0c1"
+    },
+    {
+      "start_time": 109,
+      "end_time": 110,
+      "annotation": [
+        {
+          "text": "All of me, and then she tilts her head down and raises her hand up."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Identity"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Class"
+        }
+      ],
+      "uuid": "421e3784-aa0f-4721-821e-c000a3b76b98"
+    },
+    {
+      "start_time": 141,
+      "end_time": 142,
+      "annotation": [
+        {
+          "text": "Looks up at the audience after she says something funny."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Audience Interaction"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "The Method"
+        }
+      ],
+      "uuid": "d4052175-b522-4c3a-ad65-cbf5e7e02c7a"
+    },
+    {
+      "start_time": 148,
+      "end_time": 148,
+      "annotation": [
+        {
+          "text": "Pause, lick lips."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "The Method"
+        }
+      ],
+      "uuid": "65275e2d-ba6f-4ebf-96b5-a5faf9a13f01"
+    },
+    {
+      "start_time": 190,
+      "end_time": 194,
+      "annotation": [
+        {
+          "text": "Talks about sex and it's fundamental purpose and how we see it separate from childbearing but it isn't."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Class"
+        }
+      ],
+      "uuid": "510cbc41-14f7-4b1d-9c53-08cf3beca4f1"
+    },
+    {
+      "start_time": 205,
+      "end_time": 207,
+      "annotation": [
+        {
+          "text": "She loves me, I love her, repeats and she contorts her body and sways side to side."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Script Analysis"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "The Method"
+        }
+      ],
+      "uuid": "7ed5e170-aa74-4d8d-bc96-4dc98bb730de"
+    },
+    {
+      "start_time": 210,
+      "end_time": 212,
+      "annotation": [
+        {
+          "text": "No darling, we don't need to have anything between us as she shakes her head no, her Body Language and movement is aligned with what she is saying."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "The Method"
+        }
+      ],
+      "uuid": "f3128ba3-a75e-4f94-b184-778c1c0877b2"
+    },
+    {
+      "start_time": 215,
+      "end_time": 219,
+      "annotation": [
+        {
+          "text": "You are mine and mine alone and she is touching her heart and then reaching out and then switching hands while repeating the motion."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Script Analysis"
+        }
+      ],
+      "uuid": "83172039-3744-441f-a217-cbb7f0b203d6"
+    },
+    {
+      "start_time": 227,
+      "end_time": 228,
+      "annotation": [
+        {
+          "text": "You are there to and points at the audience."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "The Method"
+        }
+      ],
+      "uuid": "28343967-6a72-440b-bae3-4b374ec5a2e9"
+    },
+    {
+      "start_time": 230,
+      "end_time": 233,
+      "annotation": [
+        {
+          "text": "That's your whole business as she waves her hands around the air."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "The Method"
+        }
+      ],
+      "uuid": "b9299277-90c8-4930-b6a3-0ee05722b003"
+    },
+    {
+      "start_time": 237,
+      "end_time": 238,
+      "annotation": [
+        {
+          "text": "We don't need you, shakes head, and then tilts head down to look at the audience"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "The Method"
+        }
+      ],
+      "uuid": "92426f13-4f5d-4b5c-9be8-4061f654b749"
+    },
+    {
+      "start_time": 259,
+      "end_time": 261,
+      "annotation": [
+        {
+          "text": "Whole and then looks around."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Script Analysis"
+        }
+      ],
+      "uuid": "75c1afb5-b573-4259-81b7-b7bca3f119f6"
+    },
+    {
+      "start_time": 266,
+      "end_time": 268,
+      "annotation": [
+        {
+          "text": "Waves of hands and up and down."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "The Method"
+        }
+      ],
+      "uuid": "8996026d-7755-4f39-8847-b3e8cbea0a0c"
+    },
+    {
+      "start_time": 270,
+      "end_time": 273,
+      "annotation": [
+        {
+          "text": "Places hand here and then there."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "The Method"
+        }
+      ],
+      "uuid": "e484f214-cc56-463c-8e10-2336b1174f87"
+    },
+    {
+      "start_time": 285,
+      "end_time": 287,
+      "annotation": [
+        {
+          "text": "Hand on top of her head and rubs."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "The Method"
+        }
+      ],
+      "uuid": "0b159cf9-2c65-4de3-9043-2c0662d3558f"
+    },
+    {
+      "start_time": 292,
+      "end_time": 285,
+      "annotation": [
+        {
+          "text": "Dramatic pause."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Dramatic Pause"
+        }
+      ],
+      "uuid": "de80d593-be42-41c2-860c-25abc485eb5b"
+    },
+    {
+      "start_time": 314,
+      "end_time": 319,
+      "annotation": [
+        {
+          "text": "The little lick thing that she does."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "The Method"
+        }
+      ],
+      "uuid": "46050d15-625f-41c6-a158-9dc4725d4f8d"
+    },
+    {
+      "start_time": 358,
+      "end_time": 361,
+      "annotation": [
+        {
+          "text": "Arms crossed over peering down."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "The Method"
+        }
+      ],
+      "uuid": "ec14d148-bfed-410f-9125-1c51616348e2"
+    }
+  ]
+}

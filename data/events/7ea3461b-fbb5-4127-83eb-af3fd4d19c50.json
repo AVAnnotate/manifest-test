@@ -1,0 +1,26 @@
+{
+  "audiovisual_files": {
+    "b6a32673-8547-43c7-93ea-325fedbf2026": {
+      "label": "AV File 9",
+      "file_url": "https://ia600307.us.archive.org/19/items/ads-0186/ADS0186.mp4",
+      "duration": 279
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "created_at": "2024-12-03T16:02:12.120Z",
+  "created_by": "SteveMarvin",
+  "item_type": "Video",
+  "label": "Imported Event 9",
+  "updated_at": "2024-12-03T16:02:12.120Z",
+  "updated_by": "SteveMarvin"
+}

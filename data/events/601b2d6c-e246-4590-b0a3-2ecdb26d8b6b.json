@@ -1,0 +1,26 @@
+{
+  "audiovisual_files": {
+    "f3df8240-c841-4e26-9fed-7c43e13a951c": {
+      "label": "AV File 2",
+      "file_url": "https://ia600309.us.archive.org/15/items/candida-file/Candida%20file.mp4",
+      "duration": 179
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "created_at": "2024-12-03T16:02:12.000Z",
+  "created_by": "SteveMarvin",
+  "item_type": "Video",
+  "label": "Imported Event 2",
+  "updated_at": "2024-12-03T16:02:12.000Z",
+  "updated_by": "SteveMarvin"
+}

@@ -1,0 +1,319 @@
+{
+  "event_id": "0ea47f3a-a273-4476-9177-2007bb78007b",
+  "source_id": "560907b2-7084-4e9f-a55d-f32d35fcdea4",
+  "set": "Default",
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "text": "Adler emphatically describes The Seagull as a play about the theater for theater people"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Anton Chekov"
+        }
+      ],
+      "uuid": "8a938b0d-a2fd-41d3-a898-8ed3de52e3d4"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "text": "Adler describes The Seagull as a play about the catastrophes you have to survive."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Anton Chekov"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Survival"
+        }
+      ],
+      "uuid": "c2fed8e6-d3cb-4d2b-904d-e7094d8a8e2b"
+    },
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "annotation": [
+        {
+          "text": "Adler discusses The Seagull as a play about the aristocracy who are interested in matters of art over matters of money. But she moves on to discussing their relationship with workers on their estates."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Anton Chekov"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Class"
+        }
+      ],
+      "uuid": "ac9f63b6-25df-4455-b0b6-c09630d08f1d"
+    },
+    {
+      "start_time": 1,
+      "end_time": 1,
+      "annotation": [
+        {
+          "text": "Adler discusses the character of Soren and his inability to deal with having no money (it has gone into agriculture on the estate) as an aristocrat. She places him as a member of \"the landed aristocracy.\""
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Characterization"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Class"
+        }
+      ],
+      "uuid": "84eb8969-c38b-4a71-8587-5952c61b052b"
+    },
+    {
+      "start_time": 1,
+      "end_time": 1,
+      "annotation": [
+        {
+          "text": "Adler discusses the character of the Mother in The Seagull as a woman who married a strong man, got pregnant, and then got rid of him."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Characterization"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Gender"
+        }
+      ],
+      "uuid": "7aaca4af-5c01-46e0-9740-7ac11368c75c"
+    },
+    {
+      "start_time": 1,
+      "end_time": 1,
+      "annotation": [
+        {
+          "text": "Laughter"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Students"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Audience Reaction"
+        }
+      ],
+      "uuid": "219c4813-d353-4ed5-aabd-8c048bf984f1"
+    },
+    {
+      "start_time": 1,
+      "end_time": 2,
+      "annotation": [
+        {
+          "text": "Describes the mother as a real survivor and an actress. She quotes August Stanislavski as a saying that we cannot use our own vernacular for another time."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Konstantin Stanislavski"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Characterization"
+        }
+      ],
+      "uuid": "77d3a6a4-e36a-4096-a4c5-adc9091cac45"
+    },
+    {
+      "start_time": 2,
+      "end_time": 3,
+      "annotation": [
+        {
+          "text": "Adler discusses the Mother and her son as being involved in art. And another character who is also an actor. The son as an embarrassment to his mother. She says \"No actress needs to have a son that is 25.\""
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Gender"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "The Acting Life"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Characterization"
+        }
+      ],
+      "uuid": "b96909e8-c683-4343-883e-f3de0f18b954"
+    },
+    {
+      "start_time": 3,
+      "end_time": 3,
+      "annotation": [
+        {
+          "text": "Laughter"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Students"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Audience Reaction"
+        }
+      ],
+      "uuid": "2fb34482-36ee-47ba-ad7a-88f67355fbfc"
+    },
+    {
+      "start_time": 3,
+      "end_time": 3,
+      "annotation": [
+        {
+          "text": "After finishing her joke, Adler takes a big sip of wine or cola in a wine glass."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Sip"
+        }
+      ],
+      "uuid": "560961a5-aa5a-422d-b567-1bfb09f37e94"
+    },
+    {
+      "start_time": 3,
+      "end_time": 3,
+      "annotation": [
+        {
+          "text": "Adler continues discussing the uselessness of sons to an actress. Making another joke about grandsons and says seriously I'm telling you don't do it!"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Gender"
+        }
+      ],
+      "uuid": "7b9016fd-0fca-466e-a57c-91b3b78a5da8"
+    },
+    {
+      "start_time": 3,
+      "end_time": 3,
+      "annotation": [
+        {
+          "text": "Loud laughter"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Students"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Audience Reaction"
+        }
+      ],
+      "uuid": "444bc403-1be8-4d08-af06-a652e0e08b4b"
+    },
+    {
+      "start_time": 4,
+      "end_time": 4,
+      "annotation": [
+        {
+          "text": "Describes the mother as a woman of 43 or 44 but seems younger. The actress should not play her age. Actresses don't get older, tired, and not in pain. A 35 year old actress with a son of 25 would feel embarrassment as if he should not be there."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Gender"
+        }
+      ],
+      "uuid": "81fb34c4-cb13-4a47-bc55-a9f8f6cd7054"
+    },
+    {
+      "start_time": 4,
+      "end_time": 5,
+      "annotation": [
+        {
+          "text": "Adler states that she also comes from this background (possibly allusion to Yiddish theater and Easter Europe). Describes an anecdote where her mom is asked why she has a son who is 38 when she is only 48. And her mother says \"You see he lives his life and I live mine.\""
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Rhetorical Device"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Gender"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Family"
+        }
+      ],
+      "uuid": "af3da3d1-6e13-4ff1-ac8f-ded95dc8fd3f"
+    },
+    {
+      "start_time": 5,
+      "end_time": 5,
+      "annotation": [
+        {
+          "text": "Loud laughter"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Students"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Audience Reaction"
+        }
+      ],
+      "uuid": "65125e11-a9dd-4c03-8373-8c190030dc6f"
+    },
+    {
+      "start_time": 5,
+      "end_time": 5,
+      "annotation": [
+        {
+          "text": "Adler describes her mother as \"very witty and very accurate!\""
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Rhetorical Device"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Family"
+        }
+      ],
+      "uuid": "690c2301-eb0b-4d98-a22c-67dcb917d7ea"
+    }
+  ]
+}
